@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Sungas Bodybuilder",
+    "link": "https://hermesfisiculturismo.netlify.app/sungas"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Sungas Classic Physique",
+    "link": "https://hermesfisiculturismo.netlify.app/tintas"
   },
   "exchange": {
     "show": true,
