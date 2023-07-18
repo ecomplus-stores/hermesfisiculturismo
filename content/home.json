@@ -33,7 +33,8 @@
       "banners": [
         {
           "img": "/img/uploads/nescau-pintura.jpg",
-          "link": "https://hermesfisiculturismo.netlify.app/sungas"
+          "link": "https://hermesfisiculturismo.netlify.app/sungas",
+          "alt": "Sungas BB"
         },
         {
           "img": "/img/uploads/javorski-2.jpg"
